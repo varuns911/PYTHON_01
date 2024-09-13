@@ -1,4 +1,4 @@
-# PRODIGY_CS_01
+# PYTHON_01
 
 This Python program implements the Caesar Cipher algorithm for encrypting and decrypting text messages. It allows users to input a message and a shift value to perform encryption and decryption.
 
